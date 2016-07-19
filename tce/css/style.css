@@ -1,0 +1,12 @@
+body{
+  font-family: monospace;
+  font-size: 28px;
+  width:inherit;;
+}
+li{
+  display:inline;
+  padding-right: 10px;
+  }
+  ul a{
+text-decoration: none;
+}
